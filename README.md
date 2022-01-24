@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrSadCatto
 - 👀 I’m interested in Gaming and HTML coding
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking for RTX 3060 ti
+- 💞️ I’m looking for RTX 3050 or 3050 ti
 - 📫 Contact me through Discord, Insta, Reddit
 
 <!---
